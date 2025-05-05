@@ -1,3 +1,9 @@
+// here's the code in js that converts given kelvin to celsius 
+// and then converts celsius to fahrenheit 
+// and then converts celsius to newton
+// and logs the results to the console
+
+
 <script>
 // The forecast today is 293 Kelvin. Kelvin is a constant value.
 const kelvin = 293;
